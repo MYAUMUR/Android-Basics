@@ -15,4 +15,5 @@
     <color name="secondaryDarkColor">#4d82cb</color>
     <color name="primaryTextColor">#000000</color>
     <color name="secondaryTextColor">#000000</color>
+    <color name="dollar_icon_color">#4CAF50</color>
 </resources>
